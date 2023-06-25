@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\jakso\source\repos\cs330project\Source.cpp(393,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jakso\source\repos\cs330project\Source.cpp(561,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jakso\source\repos\cs330project\Source.cpp(562,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jakso\source\repos\cs330project\Source.cpp(566,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jakso\source\repos\cs330project\Source.cpp(567,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jakso\source\repos\cs330project\Source.cpp(569,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jakso\source\repos\cs330project\Source.cpp(570,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jakso\source\repos\cs330project\Source.cpp(578,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jakso\source\repos\cs330project\Source.cpp(770,78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jakso\source\repos\cs330project\Source.cpp(810,78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jakso\source\repos\cs330project\Source.cpp(836,78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jakso\source\repos\cs330project\Source.cpp(863,78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jakso\source\repos\cs330project\Source.cpp(886,78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jakso\source\repos\cs330project\Source.cpp(912,78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\jakso\source\repos\cs330project\Source.cpp(937,78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  cs330project.vcxproj -> C:\Users\jakso\source\repos\cs330project\Debug\cs330project.exe
